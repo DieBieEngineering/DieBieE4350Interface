@@ -4,4 +4,5 @@ Matlab for the E4350 solar array simulator. Use with Prologix GPIB interface.
 Just open with maltab (tested with 2012B) change path and run.
 
 Demo:
-https://www.youtube.com/edit?video_id=kEH5Yj2vRCU
+
+[![DEMO](http://img.youtube.com/vi/kEH5Yj2vRCU/0.jpg)](http://www.youtube.com/watch?v=kEH5Yj2vRCU)
